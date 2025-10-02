@@ -1,5 +1,5 @@
 # Ignore sensitive API key file
-
+configs/spi_key.txt
 
 # Python specific ignores
 __pycache__/
