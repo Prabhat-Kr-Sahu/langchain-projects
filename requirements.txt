@@ -1,4 +1,0 @@
-# Add your project dependencies here, e.g.:
-# langchain
-# openai
-# python-dotenv
